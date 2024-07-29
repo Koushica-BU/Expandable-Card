@@ -32,7 +32,7 @@ This project is a learning for an implementation of expandable cards using HTML,
 
 ## File Structure
 - `index.html`: HTML structure
-- `styles.css`: CSS styling
+- `style.css`: CSS styling
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
